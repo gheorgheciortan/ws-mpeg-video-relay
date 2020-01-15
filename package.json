@@ -1,0 +1,11 @@
+{
+  "name": "ws-streaming-relay",
+  "author": "sskaje",
+  "version": "0.0.1",
+  "description": "Streaming relay for MPEG-TS",
+  "repository": "https://github.com/sskaje/ws-streaming-relay.git",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.2.1"
+  }
+}
